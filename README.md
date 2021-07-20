@@ -1,8 +1,2 @@
-# Social Clone Project
-This is a social clone project made following the step by step Django Courses
-
-## Thanks
-Thanks to Jose Portilla for this amazing course. 
-
-Link to Udemy course
-<https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/>
+# Django Project
+This is a social stargazers club website where different users can register, sign in and interact by creating groups, adding/updating/deleting posts, commenting and much more !
