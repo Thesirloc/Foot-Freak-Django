@@ -6,6 +6,6 @@ This is a social stargazers club website where different users can register, sig
 pip install django-braces<br/>
 pip install misaka<br/>
 # To run in local host:<br/>
-    1. navigate into project directory and run command "python manage.py runserver"<br/>
-    2. copy paste local host address into your browser.<br/>
+    1. navigate into project directory and run command "python manage.py runserver"
+    2. copy paste local host address into your browser.
     3. Explore the star club.
