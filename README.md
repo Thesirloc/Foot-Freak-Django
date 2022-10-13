@@ -1,5 +1,5 @@
 # Django Project
-This is a social stargazers club website where different users can register, sign in and interact by creating groups, adding/updating/deleting posts, commenting and much more !
+This is a social footballers club website where different users can register, sign in and interact by creating groups, adding/updating/deleting posts, commenting and much more !
 <br>
 # Installations required :
 <br/> pip install django == 1.11.__<br/>
